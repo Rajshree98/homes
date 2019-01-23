@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HotSpotHome</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="room1">
+        <item>BEDROOM 01</item>
+        <item>LIVING ROOM 01</item>
+        <item>STUDY ROOM 01</item>
+    </string-array>
+    <string-array name="room2">
+        <item>BEDROOM 02</item>
+        <item>KITCHEN</item>
+        <item>BATH ROOM 03</item>
+    </string-array>
+
+    <string-array name="room3">
+        <item>STUDY ROOM 01</item>
+        <item>CUSTOM ROOM</item>
+        <item>CREATE ROOM</item>
+    </string-array>
+
+    <string-array name="board1">
+        <item>FAN 01</item>
+        <item>LIGHT 01</item>
+        <item>LAMP 01</item>
+    </string-array>
+    <string-array name="board2">
+        <item>AC 02</item>
+        <item>KITCHEN</item>
+        <item>BATH ROOM 03</item>
+    </string-array>
+
+    <string-array name="board3">
+        <item>STUDY ROOM 01</item>
+        <item>CUSTOM SWITCH</item>
+        <item>CREATE SWITCH</item>
+    </string-array>
+</resources>
